@@ -13,5 +13,5 @@ The samples are organized by course.
 - `notetaker-notes/`
   - `foundations-of-music-theory/`: Detailed lecture notes covering the full semester's material for MUSI 1700
   - `introduction-to-statistical-modelling-ii/`: Detailed lecture notes covering the full semester's material for STAT 2509
-  - `linear-algebra/`: Detailed lecture notes covering the full semester's material for MATH 1107
+  - `linear-algebra/`: Detailed lecture notes covering the full semester's material for MATH 1104
   - `mathematics-for-business/`: Formula sheets and solved questions with explanations for MATH 1009

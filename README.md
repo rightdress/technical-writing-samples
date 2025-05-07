@@ -12,6 +12,7 @@ The samples are organized by purpose and course.
 
 - `notetaker-notes/`
   - `foundations-of-music-theory/`: Detailed lecture notes covering the full semester's material for MUSI 1700
+  - `game-development/`: Detailed lecture notes covering the full semester's material for COMP 1501
   - `introduction-to-statistical-modelling-ii/`: Detailed lecture notes covering the full semester's material for STAT 2509
   - `linear-algebra/`: Detailed lecture notes covering the full semester's material for MATH 1104
 - `ta-resources/`

@@ -8,10 +8,11 @@ Additional writing samples — including game documentation and rulebooks — ar
 
 ## Repository Structure
 
-The samples are organized by course.
+The samples are organized by purpose and course.
 
 - `notetaker-notes/`
   - `foundations-of-music-theory/`: Detailed lecture notes covering the full semester's material for MUSI 1700
   - `introduction-to-statistical-modelling-ii/`: Detailed lecture notes covering the full semester's material for STAT 2509
   - `linear-algebra/`: Detailed lecture notes covering the full semester's material for MATH 1104
+- `ta-resources/`
   - `mathematics-for-business/`: Formula sheets and solved questions with explanations for MATH 1009
